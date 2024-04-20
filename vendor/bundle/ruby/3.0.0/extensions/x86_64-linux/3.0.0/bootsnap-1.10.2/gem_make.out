@@ -1,0 +1,15 @@
+current directory: /home/ubuntu/Budget-App/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.10.2/ext/bootsnap
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20240420-2601-x8w1in.rb extconf.rb
+creating Makefile
+
+current directory: /home/ubuntu/Budget-App/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.10.2/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /home/ubuntu/Budget-App/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.10.2/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/ubuntu/Budget-App/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.10.2/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20240420-2601-6e3qzf/bootsnap
